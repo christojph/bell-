@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Added Room: Name=main
