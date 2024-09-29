@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=main Member=R7
+Removed Member From Class: ClassName=relay and rtc Member=R7
+Added Pin To Net: NetName=+3.3v Pin=P1-1
+Added Member To Class: ClassName=relay and rtc Member=Component C3 0.10µF
+Added Member To Class: ClassName=relay and rtc Member=Component C4 10µF
+Added Member To Class: ClassName=relay and rtc Member=Component C6 10pF
+Added Member To Class: ClassName=power supply Member=Component C8 10pF
+Added Member To Class: ClassName=main Member=Component R1 10k
+Added Member To Class: ClassName=main Member=Component R2 10k
+Added Member To Class: ClassName=relay and rtc Member=Component R3 1k
+Added Member To Class: ClassName=relay and rtc Member=Component R4 10k
+Added Member To Class: ClassName=relay and rtc Member=Component R5 4.7k
+Added Member To Class: ClassName=relay and rtc Member=Component R6 4.7k
+Added Room: Name=main
+Added Room: Name=power supply
+Added Room: Name=relay and rtc
